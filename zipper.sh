@@ -2,6 +2,6 @@
 # Run it from within the autograder directory
 
 # SET NAME BELOW 
-name="autograder"
+name="magicSquareAutograder"
 
 zip -r ../$name.zip .
